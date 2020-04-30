@@ -1,3 +1,11 @@
+@Anustup Mukherjee
+#ML model implements Random Forest Classifiers for the case classification
+#ML model implemnts  Logistic Regression for the prediction of Suicide
+#Accuracy 94.7 %
+#R script 
+#for working on this script download R -studio 
+
+
 library(data.table)
 library(ggplot2)
 library(ggrepel)
